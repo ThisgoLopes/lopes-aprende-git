@@ -2,3 +2,6 @@ ola git, meu nome é thiago e esta é a primeira modificação que faço no git!
 
 usar o VIM é bom demais
 usar o VIM é bom demais
+
+alterando coisas em outra Branch! Uau
+
